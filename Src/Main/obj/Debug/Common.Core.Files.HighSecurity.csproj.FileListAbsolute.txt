@@ -1,0 +1,10 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Files.HighSecurity\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.Files.HighSecurity.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Files.HighSecurity\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.Files.HighSecurity.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Files.HighSecurity\src\obj\Debug\USC.GISResearchLab.Common.Core.Files.HighSecurity.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Files.HighSecurity\src\obj\Debug\USC.GISResearchLab.Common.Core.Files.HighSecurity.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Files.HighSecurity\src\obj\Debug\Common.Core.Files.HighSecurity.csprojResolveAssemblyReference.cache
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Files.HighSecurity\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Files.HighSecurity.dll
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Files.HighSecurity\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Files.HighSecurity.pdb
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Files.HighSecurity\Src\Main\obj\Debug\Common.Core.Files.HighSecurity.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Files.HighSecurity\Src\Main\obj\Debug\Tamu.GeoInnovation.Common.Core.Files.HighSecurity.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Files.HighSecurity\Src\Main\obj\Debug\Tamu.GeoInnovation.Common.Core.Files.HighSecurity.pdb
