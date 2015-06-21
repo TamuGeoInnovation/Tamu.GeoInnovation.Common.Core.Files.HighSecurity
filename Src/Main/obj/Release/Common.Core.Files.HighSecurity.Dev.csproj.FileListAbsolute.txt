@@ -1,3 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Files.HighSecurity\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Files.HighSecurity.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Files.HighSecurity\Src\Main\obj\Release\Common.Core.Files.HighSecurity.Dev.csprojResolveAssemblyReference.cache
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Files.HighSecurity\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Files.HighSecurity.dll
