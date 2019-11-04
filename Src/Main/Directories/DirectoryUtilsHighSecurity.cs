@@ -6,9 +6,9 @@ using USC.GISResearchLab.Common.Utils.Files;
 
 namespace USC.GISResearchLab.Common.Utils.Directories
 {
-	/// <summary>
-	/// Summary description for DirectoryUtils.
-	/// </summary>
+    /// <summary>
+    /// Summary description for DirectoryUtils.
+    /// </summary>
     public class DirectoryUtilsHighSecurity
     {
         public DirectoryUtilsHighSecurity()
