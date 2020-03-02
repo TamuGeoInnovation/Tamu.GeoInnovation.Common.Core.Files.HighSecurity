@@ -127,11 +127,6 @@
       <Name>Common.Core.Files.Dev</Name>
       <Private>False</Private>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Common.Core.Security\Src\Main\Common.Core.Security.Dev.csproj">
-      <Project>{D46E3A34-D2A4-4617-A13D-39E787C48C15}</Project>
-      <Name>Common.Core.Security.Dev</Name>
-      <Private>False</Private>
-    </ProjectReference>
     <ProjectReference Include="..\..\..\Common.Core.Utils\Src\Main\Common.Core.Utils.Dev.csproj">
       <Project>{0744A732-A7FE-4658-967D-C5A583EF08E4}</Project>
       <Name>Common.Core.Utils.Dev</Name>
